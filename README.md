@@ -1,8 +1,7 @@
 ‎ 
 
-https://raw.githubusercontent.com/Xsx22/Xsx22/main/E3690947-C3AE-4F2E-82AD-3346D68C56C7.jpeg
 
-<img src="https://raw.githubusercontent.com/Xsx22/Xsx22/main/E3690947-C3AE-4F2E-82AD-3346D68C56C7.jpeg" width="100" height="100" alt="Beautiful baby" />
+<img src="https://raw.githubusercontent.com/Xsx22/Xsx22/main/E3690947-C3AE-4F2E-82AD-3346D68C56C7.jpeg" width="300" height="300" alt="Beautiful baby" />
 
 
 اداه بلغه الباثيون | scan
