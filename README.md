@@ -41,6 +41,5 @@ php
 * </body>
 * </html>
 
-setcookie('mycookie','mydata',time() + 2*7*24*60*60,'/','https://github.com/ooXsx22', false);
 
 ?>
