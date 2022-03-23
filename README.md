@@ -49,14 +49,10 @@ php
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>Page Title</title>
-    <link href="style.css" rel="stylesheet">
-    <script src="javascript.js"></script>
   </head>
   <body>
-    <img src="images/logo.png" alt="Network Scanner |X|S|X|">
-    <p>‏https://raw.githubusercontent.com/Xsx22/Xsx22/%7CX%7CS%7CX%7C/xsx.py</p>
+    <img src="images/logo.png" alt="">
+    <p>‏<<<<<<<<<<<<<<<<<<<</p>
   </body>
 </html>
 
