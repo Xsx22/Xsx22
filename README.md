@@ -1,4 +1,5 @@
-‎اداه | scan
+ Py ‎بلغه الباثيون  ‎اداه
+فحص | scan
 Network Scanner |X|S|X|
 
 ‎لغه الباثيون 
