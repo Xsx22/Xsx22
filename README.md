@@ -45,15 +45,3 @@ php
 
 
 ?>
-
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <img src="images/logo.png" alt="">
-    <p>‏<<<<<<<<<<<<<<<<<<<</p>
-  </body>
-</html>
-
-‎ 
