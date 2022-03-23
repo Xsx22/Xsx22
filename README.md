@@ -8,3 +8,10 @@ https://www.gulf-up.com/rc3z8cckoicb
 انسخ الكود داخل الرابط 
 
 ‏https://raw.githubusercontent.com/Xsx22/Xsx22/%7CX%7CS%7CX%7C/xsx.py
+
+
+
+
+
+<a href="https://info.flagcounter.com/lJF5"><img src="https://s11.flagcounter.com/count2/lJF5/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
