@@ -5,6 +5,9 @@
 
 
 اداه بلغه الباثيون | scan
+حمل الباثيون
+
+https://www.python.org/downloads/
 
 Network Scanner |X|S|X|
 ‎رابط التحميل :
