@@ -1,9 +1,8 @@
 
+<img src="https://k.top4top.io/p_2285x4v130.jpeg" alt="Flying Kites" width="800" height="300">
+<!DOCTYPE html>
 
 
-<img src="https://k.top4top.io/p_2285x4v130.jpeg
-
-" width="300" height="300" alt="Beautiful baby" />
 
 
 اداه بلغه الباثيون | scan
