@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Xsx22/Xsx22/blob/main/A3909EA1-6013-47F1-AD7F-CB36024FA5B7.jpeg" alt="Flying Kites" width="900" height="300">
+<img src="https://github.com/Xsx22/Xsx22/blob/main/A3909EA1-6013-47F1-AD7F-CB36024FA5B7.jpeg" alt="Flying Kites" width="800" height="300">
 <!DOCTYPE html>
 
 
