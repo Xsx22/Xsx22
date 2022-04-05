@@ -1,5 +1,5 @@
 
-<img src="https://k.top4top.io/p_2285x4v130.jpeg" alt="Flying Kites" width="800" height="300">
+<img src="https://k.top4top.io/p_2285x4v130.jpeg" alt="Flying Kites" width="900" height="300">
 <!DOCTYPE html>
 
 
