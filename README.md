@@ -47,11 +47,3 @@ php
 * </scan ‏http:// ‏http>
 * </‎‏ |Network |Scanner |X|S|X| Xsx|scan|>
 ?>
-
-
-
-<head>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2224167187880441"
-     crossorigin="anonymous"></script>
-<head>
