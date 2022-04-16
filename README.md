@@ -45,6 +45,7 @@ php
 * </<<<<<<<<<<<<<<<<<<<<<<<<<>
 * </$
 * </XSX>
+* </Network Scanner |X|S|X|.command>
 * </scan ‏http:// ‏http>
 * </‎‏ |Network |Scanner |X|S|X| Xsx|scan|>
 ?>
