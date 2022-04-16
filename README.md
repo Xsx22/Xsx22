@@ -48,3 +48,4 @@ php
 * </‎‏ |Network |Scanner |X|S|X| Xsx|scan|>
 ?>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5fj64d237nb&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=57ivjm3pqs0&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
