@@ -33,7 +33,6 @@ php
 
 * <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://github.com/Xsx22">
 * <html>
-* <title>
 * <head>
 * </head>
 * <body>
