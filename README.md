@@ -1,4 +1,4 @@
- <title>Network Scanner |X|S|X|.command>
+
 <img src="https://a.top4top.io/p_2296558nn0.jpeg" alt="Flying Kites" width="800" height="300">
 <!DOCTYPE html>
 
@@ -33,6 +33,7 @@ php
 
 * <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://github.com/Xsx22">
 * <html>
+*  <title>Network Scanner |X|S|X|.command>
 * <head>
 * </head>
 * <body>
