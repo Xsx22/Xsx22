@@ -47,5 +47,3 @@ php
 * </scan ‏http:// ‏http>
 * </‎‏ |Network |Scanner |X|S|X| Xsx|scan|>
 ?>
-<script src="https://www.widgeo.net/geocompteur/geocompteur.php?c=geoall1&id=316120174106&adult=0&cat=&size=&idec=33571209216&nostats=0"></script>
-<noscript><a href="https://www.widgeo.net/instagram/" target="_blank"><img src="https://www.widgeo.net/geocompteur/geo_nojs.php?c=geoall1&adult=0&cat=&id=316120174106&idec=33571209216" alt="Instagram Videos Online" border="0"></a></noscript>
