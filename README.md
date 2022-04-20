@@ -12,7 +12,9 @@ https://www.python.org/downloads/
 
 Network Scanner |X|S|X|
 ‎رابط التحميل :
-https://www.gulf-up.com/rc3z8cckoicb 
+
+https://www.gulf-up.com/l2sl0f2u40ls
+
 ‎• فحص المنافذ
 ‎•مراقبه الاتصال
 ‎• فحص الشبكه
