@@ -1,9 +1,9 @@
 
 print ("++++ Network Scanner |X|S|X| +++++++") 
 
-print ("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++(2022)") 
+print ("++++[Network security]++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++(2022)+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++") 
 
-print ("---------------------------------------------------------------------------------") 
+print ("--------------[system information]-------------------------------------------------------------------") 
 
 import socket
 print([l for l in ([ip for ip in socket.gethostbyname_ex(socket.gethostname())[2] 
@@ -63,7 +63,7 @@ print('Time taken:', time.time() - startTime)
 
 
 
-print ("-----------------[Get IP address]--------------------------------------------------------------------------")
+print ("-----------------[information about the network interfaces and their status..]--------------------------------------------------------------------------")
 
 
 
@@ -74,7 +74,7 @@ for ifaceName in interfaces():
     print('%s: %s' % (ifaceName, ', '.join(addresses)))
 	
 
-print ("----------------netifaces module is used to provide information about the network interfaces and their status.---------------") 
+print ("----------------[network connections].---------------") 
 
 from netifaces import interfaces, ifaddresses, AF_INET
 for ifaceName in interfaces():
@@ -83,5 +83,15 @@ for ifaceName in interfaces():
 
 print ("--------------------------------------") 
 
-	
-	
+print ("-----------------[Network Scanner]----Security >>>>----------------------------") 
+
+import scapy.all as scapy
+  
+request = scapy.ARP()
+print(request.summary())
+
+
+import scapy.all as scapy
+  
+request = scapy.ARP()
+print(request.show())
