@@ -66,4 +66,4 @@ Network,Scanner|X|S|X|,scan,Scanner
 <body>
 
 
-<a title="Network,Scanner|X|S|X|,scan,Scanner|" href it="https://github.com/Xsx22"><span lang="es">Español</span></a>
+<a title="Network,Scanner|X|S|X|,scan,Scanner|" href it="https://github.com/Xsx22"><span lang="es"> Network,Scanner|X|S|X|,scan,Scanner|</span></a>
