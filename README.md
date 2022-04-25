@@ -59,7 +59,5 @@ php
 
 
 <head>
-العلامات الدلالية
-.......................
-
+Network,Scanner|X|S|X|,scan,Scanner
 </head>
