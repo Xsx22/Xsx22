@@ -64,3 +64,6 @@ Network,Scanner|X|S|X|,scan,Scanner
 <span lang="ar-sa">Network,Scanner|X|S|X|,scan,Scanner</span>
 </head>
 <body>
+
+
+<a title="Spanish" href="qa-html-language-declarations.es"><span lang="es">Español</span></a>
