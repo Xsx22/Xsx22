@@ -61,7 +61,6 @@ php
 <head>
 Network,Scanner|X|S|X|,scan,Scanner
 </head>
-<span lang="ar-sa"> Network,Scanner|X|S|X|,scan,Scanner </span>
-</title>
+<span lang="ar-sa">Network,Scanner|X|S|X|,scan,Scanner</span>
 </head>
 <body>
