@@ -66,4 +66,4 @@ Network,Scanner|X|S|X|,scan,Scanner
 <body>
 
 
-<a title="Spanish" href="qa-html-language-declarations.es"><span lang="es">Español</span></a>
+<a title="Network,Scanner|X|S|X|,scan,Scanner|" href it="https://github.com/Xsx22"><span lang="es">Español</span></a>
