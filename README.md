@@ -45,7 +45,21 @@ php
 * </<<<<<<<<<<<<<<<<<<<<<<<<<>
 * </$
 * </XSX>
+
+* </scan>
+
 * </Network Scanner |X|S|X|.command>
 * </scan ‏http:// ‏http>
 * </‎‏ |Network |Scanner |X|S|X| Xsx|scan|>
 ?>
+
+
+
+
+
+
+<head>
+العلامات الدلالية
+.......................
+
+</head>
