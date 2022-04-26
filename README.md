@@ -65,6 +65,5 @@ Network,Scanner|X|S|X|,scan,Scanner
 </head>
 <body>
 
-<a href="*folder(s)*/Xsx22">Page2</a>
 
 <a title="Network,Scanner|X|S|X|,scan,Scanner|" href it="https://github.com/Xsx22"><span lang="es"> Network,Scanner|X|S|X|,scan,Scanner|</span></a>
