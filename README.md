@@ -52,7 +52,6 @@ php
 * </‎‏ |Network |Scanner |X|S|X| Xsx|scan|>
 ?>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=517libulxza" async="async"></script>
 
 
 <a title="Network,Scanner|X|S|X|,scan,Scanner|" href it="https://github.com/Xsx22"><span lang="es"> Network,Scanner|X|S|X|,scan,Scanner|</span></a>
