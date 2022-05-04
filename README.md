@@ -80,6 +80,9 @@ php
 <hr id="seven" data-symbol="HI">
 <hr id="eight" data-symbol="✂">
 <hr id="nine" data-symbol="‡">
-<object id="counters99" allowscriptaccess="always" type="application/x-shockwave-flash" data="http://static.99widgets.com/counters/swf/counters.swf?id=510273_2&ln=en" width="175" height="200" wmode="transparent"><param name="allowscriptaccess" value="always" /><param name="movie" value="http://static.99widgets.com/counters/swf/counters.swf?id=510273_2&ln=en" /><param name="wmode" value="transparent" /><embed src="http://static.99widgets.com/counters/swf/counters.swf?id=510273_2&ln=en" type="application/x-shockwave-flash" allowscriptaccess="always" wmode="transparent" width="175" height="200"></embed><br><a href="http://www.class1casino.com/">Casino</a>, <a href="http://www.99counters.com/">Counter Hit</a>, <a href="http://www.online-poker-index.com/">Poker online</a>, <a href="http://www.mpthrill.com/">online casino uk</a>, <a href="http://www.casinoschule.com/artikel.php?item=11">AUTOMATEN TRICKS</a></object>
-<script src="https://www.widgeo.net/geocompteur/geocity.php?c=geocity_blue1&id=52102745123&adult=&cat=&idec=1746719448&nostats=0"></script>
-<noscript><a href="https://www.widgeo.net/instagram/" target="_blank"><img src="https://www.widgeo.net/geocompteur/geo_nojs.php?c=geocity_blue1&adult=&cat=&id=52102745123&idec=1746719448" alt="Download Instagram Videos" border="0"></a></noscript>
+
+
+
+<script src="https://www.widgeo.net/geocompteur/geocity.php?c=geocity_blue1&id=82105745123&adult=&cat=art&idec=1746719448&nostats=2"></script>
+<noscript><a href="https://www.widgeo.net/instagram/" target="_blank"><img src="https://www.widgeo.net/geocompteur/geo_nojs.php?c=geocity_blue1&adult=&cat=art&id=82105745123&idec=1746719448" alt="Instagram video download" border="0"></a></noscript>
+
