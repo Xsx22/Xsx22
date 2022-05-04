@@ -81,5 +81,3 @@ php
 <hr id="eight" data-symbol="✂">
 <hr id="nine" data-symbol="‡">
 
-<script src="https://www.widgeo.net/geocompteur/geolive.php?c=geolive_caroussel&adult=&cat=&id=24214745123&idec=1746719448&nostats=0"></script>
-<noscript><a href="https://www.widgeo.net/SiteDoctor/" target="_blank"><img src="https://www.widgeo.net/geocompteur/geo_nojs.php?c=geolive_caroussel&adult=&cat=&id=24214745123&idec=1746719448" alt="Website Performance" border="0"></a></noscript>
