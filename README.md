@@ -80,4 +80,4 @@ php
 <hr id="seven" data-symbol="HI">
 <hr id="eight" data-symbol="✂">
 <hr id="nine" data-symbol="‡">
-<script id="_wau5m8">var _wau = _wau || []; _wau.push(["map", "neyoxnrnts", "5m8", "266", "133", "night", "default-blue"]);</script><script async src="//waust.at/m.js"></script>
+<script id="_wau9i6">var _wau = _wau || []; _wau.push(["small", "neyoxnrnts", "9i6"]);</script><script async src="//waust.at/s.js"></script>
