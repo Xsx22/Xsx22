@@ -81,8 +81,3 @@ php
 <hr id="eight" data-symbol="✂">
 <hr id="nine" data-symbol="‡">
 
-
-
-<script src="https://www.widgeo.net/geocompteur/geocity.php?c=geocity_blue1&id=82105745123&adult=&cat=art&idec=1746719448&nostats=2"></script>
-<noscript><a href="https://www.widgeo.net/instagram/" target="_blank"><img src="https://www.widgeo.net/geocompteur/geo_nojs.php?c=geocity_blue1&adult=&cat=art&id=82105745123&idec=1746719448" alt="Instagram video download" border="0"></a></noscript>
-
