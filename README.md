@@ -71,3 +71,12 @@ php
 
 ‏<head>
  
+<hr id="one" data-symbol="☂☂☂">
+<hr id="two" data-symbol="✈">
+<hr id="three" data-symbol="BREAK">
+<hr id="four" data-symbol="SECTION">
+<hr id="five" data-symbol="∞">
+<hr id="six" data-symbol="lololol">
+<hr id="seven" data-symbol="HI">
+<hr id="eight" data-symbol="✂">
+<hr id="nine" data-symbol="‡">
