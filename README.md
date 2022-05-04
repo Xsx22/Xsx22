@@ -80,4 +80,13 @@ php
 <hr id="seven" data-symbol="HI">
 <hr id="eight" data-symbol="✂">
 <hr id="nine" data-symbol="‡">
-<script id="_wau9i6">var _wau = _wau || []; _wau.push(["small", "neyoxnrnts", "9i6"]);</script><script async src="//waust.at/s.js"></script>
+<form name="form1">
+<div style="text-align: center;">
+<textarea cols="50" name="demo" readonly="" rows="2">الكود الذي سوف تضع 
+</textarea>&nbsp;</div>
+<div style="text-align: center;">
+&nbsp;&nbsp;<input name="selectit" onclick="selectAll ();" type="button" value="تحديد الكل" /></div>
+<div style="text-align: center;">
+<br /></div>
+</form>
+</div>
