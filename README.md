@@ -80,13 +80,3 @@ php
 <hr id="seven" data-symbol="HI">
 <hr id="eight" data-symbol="✂">
 <hr id="nine" data-symbol="‡">
-<form name="form1">
-<div style="text-align: center;">
-<textarea cols="50" name="demo" readonly="" rows="2">الكود الذي سوف تضع 
-</textarea>&nbsp;</div>
-<div style="text-align: center;">
-&nbsp;&nbsp;<input name="selectit" onclick="selectAll ();" type="button" value="تحديد الكل" /></div>
-<div style="text-align: center;">
-<br /></div>
-</form>
-</div>
