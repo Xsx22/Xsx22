@@ -80,5 +80,3 @@ php
 <hr id="seven" data-symbol="HI">
 <hr id="eight" data-symbol="✂">
 <hr id="nine" data-symbol="‡">
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5r9szmw70vk&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
-<script id="_wauwun">var _wau = _wau || []; _wau.push(["colored", "msn3jnxxoq", "wun", "ffc20e000000"]);</script><script async src="//waust.at/co.js"></script>
